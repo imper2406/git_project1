@@ -6,4 +6,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-# Hello
+# "New day — new print"
